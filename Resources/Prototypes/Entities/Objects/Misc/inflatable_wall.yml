@@ -28,7 +28,7 @@
         !type:DamageTrigger
         damage: 20
       behaviors:
-      - !type:DoActsBehavior
+        !type:DoActsBehavior
         acts: [ "Destruction" ]
   - type: DisassembleOnAltVerb
     prototype: InflatableWallStack1
